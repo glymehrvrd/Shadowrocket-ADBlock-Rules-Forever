@@ -47,3 +47,9 @@ news.ycombinator.com
 #TrustWallet
 trustwallet.com
 walletconnect.org
+
+# Apple Podcast
+podcasts.apple.com
+bookkeeper.itunes.apple.com
+play.itunes.apple.com
+xp.apple.com
